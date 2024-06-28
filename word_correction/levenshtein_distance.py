@@ -23,7 +23,7 @@ def load_vocab(file_path):
 
 
 vocabs = load_vocab(
-    file_path='aio2024_streamlit_project/word_correction/data/vocab.txt')
+    file_path='word_correction/data/vocab.txt')
 
 
 def main():
